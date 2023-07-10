@@ -1,0 +1,26 @@
+ItemNumber : 0
+Name : Asus ROG B450F
+Price : 100
+SocketType : AM4
+Chipset : AMD B450
+ProcessorCount : 1
+MemoryType : DDR4
+BusSpeed : 3600
+
+ItemNumber : 0
+Name : Gigabyte H310M
+Price : 70
+SocketType : Socket 1151
+Chipset : Intel H310
+ProcessorCount : 1
+MemoryType : DDR4
+BusSpeed : 2500
+
+ItemNumber : 0
+Name : MSI 730H
+Price : 120
+SocketType : Socket 1999
+Chipset : Intel H310
+ProcessorCount : 1
+MemoryType : DDR4
+BusSpeed : 4200

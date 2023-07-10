@@ -1,0 +1,20 @@
+ItemNumber : 1
+Name : Intel Core I7
+Price : 200
+SocketType : Socket 1151
+CoreCount : 4
+ClockSpeed : 2.4
+
+ItemNumber : 1
+Name : AMD Ryzen R7
+Price : 180
+SocketType : AM4
+CoreCount : 8
+ClockSpeed : 3.2
+
+ItemNumber : 1
+Name : M1
+Price : 300
+SocketType : Socket 1999
+CoreCount : 16
+ClockSpeed : 3.8

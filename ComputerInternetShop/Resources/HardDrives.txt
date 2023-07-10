@@ -1,0 +1,20 @@
+ItemNumber : 3
+Name : Data
+Price : 30
+Capacity : 1000
+Speed : 4654
+InterfaceOfConnect : Type-C
+
+ItemNumber : 3
+Name : Storage
+Price : 60
+Capacity : 2
+Speed : 3242
+InterfaceOfConnect : Free
+
+ItemNumber : 3
+Name : Kaspersky
+Price : 40
+Capacity : 2
+Speed : 8765
+InterfaceOfConnect : USB

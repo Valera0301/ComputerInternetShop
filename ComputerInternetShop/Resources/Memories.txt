@@ -1,0 +1,23 @@
+ItemNumber : 2
+Name : MSI
+Price : 110
+Capacity : 2
+MemoryType : DDR4
+Frequency : 3
+ModuleCount : 2
+
+ItemNumber : 2
+Name : Asus
+Price : 100
+Capacity : 4
+MemoryType : DDR3
+Frequency : 5
+ModuleCount : 1
+
+ItemNumber : 2
+Name : Gigabyte
+Price : 80
+Capacity : 2
+MemoryType : DDR4
+Frequency : 2
+ModuleCount : 2
